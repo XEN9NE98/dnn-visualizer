@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dnn-visualizer/static/css/main.bec616fc.css",
+    "main.js": "/dnn-visualizer/static/js/main.05e48a9a.js",
+    "static/js/453.d34e59fb.chunk.js": "/dnn-visualizer/static/js/453.d34e59fb.chunk.js",
+    "index.html": "/dnn-visualizer/index.html",
+    "main.bec616fc.css.map": "/dnn-visualizer/static/css/main.bec616fc.css.map",
+    "main.05e48a9a.js.map": "/dnn-visualizer/static/js/main.05e48a9a.js.map",
+    "453.d34e59fb.chunk.js.map": "/dnn-visualizer/static/js/453.d34e59fb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bec616fc.css",
+    "static/js/main.05e48a9a.js"
+  ]
+}
